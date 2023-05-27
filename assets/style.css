@@ -1,0 +1,49 @@
+.Encabezado-principal {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+h2 {
+ color: darkmagenta;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: x-large;
+}
+
+h3 {
+    color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.parrafos {
+    color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.parrafo-principal {
+ color: darkslateblue;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.parrafo-pie {
+    color: midnightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+form {
+    color: midnightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+button {
+    color: midnightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
