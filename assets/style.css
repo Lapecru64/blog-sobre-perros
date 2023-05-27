@@ -1,32 +1,37 @@
 .Encabezado-principal {
     color: blue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: xx-large;
+    font-size: 25 px;
+    line-height: 1.5;
 }
 
 h2 {
  color: darkmagenta;
  font-family: Verdana, Geneva, Tahoma, sans-serif;
- font-size: x-large;
+ font-size: 15 px;
 }
 
 h3 {
-    color: darkslateblue;
+    color: rgb(20, 7, 105);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15 px;
 }
 
 .parrafos {
     color: darkslateblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
 }
 
 .parrafo-principal {
  color: darkslateblue;
  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ line-height: 1.5;
+ text-align: justify;
 }
 
 ul {
-    color: chocolate;
+    color: rgb(109, 50, 7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -34,6 +39,7 @@ ul {
     color: midnightblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
+    text-align: justify;
 }
 
 form {
@@ -47,3 +53,22 @@ button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
 }
+
+a {
+color: darkslateblue;
+text-decoration: none;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+
+a:hover {
+    color:crimson;
+}
+
+a:active {
+    color:rgb(105, 7, 40)
+}
+
+
